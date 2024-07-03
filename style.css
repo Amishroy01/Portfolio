@@ -608,7 +608,7 @@ span {
     align-items: center;
     flex-wrap: wrap;
     padding: 2rem 9%;
-    background: url('/image/bgall.png') no-repeat;
+    background: url('./bgall.png') no-repeat;
 }
 
 .footer-text p {
